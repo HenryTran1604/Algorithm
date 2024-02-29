@@ -12,11 +12,4 @@
 | [Bit Strings](https://cses.fi/problemset/task/1617)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/BitStrings.cpp)|[JAVA]()|[PYTHON]()|
 | [Trailing Zeros](https://cses.fi/problemset/task/1618)   | Introductory Problems |[CPP]()|[JAVA]()|[PYTHON]()|
 | [Coin Piles](https://cses.fi/problemset/task/1754)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/CoinPiles.cpp)|[JAVA]()|[PYTHON]()|
-| [Palindrome Reorder](https://cses.fi/problemset/task/2205)   | Introductory Problems |[CPP]()|[JAVA]()|[PYTHON]()|
-| [Gray Code](https://cses.fi/problemset/task/1083)   | Introductory Problems |[CPP]()|[JAVA]()|[PYTHON]()|
-| [Tower of Hanoi](https://cses.fi/problemset/task/2165)   | Introductory Problems |[CPP]()|[JAVA]()|[PYTHON]()|
-| [Creating Strings](https://cses.fi/problemset/task/1622)   | Introductory Problems |[CPP]()|[JAVA]()|[PYTHON]()|
-| [Apple Division](https://cses.fi/problemset/task/1623)   | Introductory Problems |[CPP]()|[JAVA]()|[PYTHON]()|
-| [Chessboard and Queens](https://cses.fi/problemset/task/1624)   | Introductory Problems |[CPP]()|[JAVA]()|[PYTHON]()|
-| [Digit Queries](https://cses.fi/problemset/task/2431)   | Introductory Problems |[CPP]()|[JAVA]()|[PYTHON]()|
-| [Grid Paths](https://cses.fi/problemset/task/1625)   | Introductory Problems |[CPP]()|[JAVA]()|[PYTHON]()|
+| [PalindromeReorder](https://cses.fi/problemset/task/1755)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/PalindromeReorder.cpp)|[JAVA]()|[PYTHON]()|
