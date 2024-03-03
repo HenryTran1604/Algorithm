@@ -4,8 +4,8 @@ using namespace std;
 int main() {
 	ofstream fo;
 	fo.open("README.md", ios::app);
-	string nameProblem = "PalindromeReorder";
-	string idProblem = "1755";
+	string nameProblem = "CreateStrings";
+	string idProblem = "1622";
 	string linkProblem = "https://cses.fi/problemset/task/" + idProblem;
 	string type = "Introductory Problems";
 	string solutionCPP = "https://github.com/HenryTran1604/CSES/blob/main/CPP/" + nameProblem + ".cpp";

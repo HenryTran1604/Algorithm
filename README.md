@@ -13,3 +13,7 @@
 | [Trailing Zeros](https://cses.fi/problemset/task/1618)   | Introductory Problems |[CPP]()|[JAVA]()|[PYTHON]()|
 | [Coin Piles](https://cses.fi/problemset/task/1754)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/CoinPiles.cpp)|[JAVA]()|[PYTHON]()|
 | [PalindromeReorder](https://cses.fi/problemset/task/1755)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/PalindromeReorder.cpp)|[JAVA]()|[PYTHON]()|
+| [GrayCode](https://cses.fi/problemset/task/2205)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/GrayCode.cpp)|[JAVA]()|[PYTHON]()|
+| [AppleDivison](https://cses.fi/problemset/task/1623)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/AppleDivison.cpp)|[JAVA]()|[PYTHON]()|
+| [ChessboardAndQueens](https://cses.fi/problemset/task/1624)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/ChessboardAndQueens.cpp)|[JAVA]()|[PYTHON]()|
+| [CreateStrings](https://cses.fi/problemset/task/1622)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/CreateStrings.cpp)|[JAVA]()|[PYTHON]()|
