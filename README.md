@@ -17,3 +17,5 @@
 | [AppleDivison](https://cses.fi/problemset/task/1623)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/AppleDivison.cpp)|[JAVA]()|[PYTHON]()|
 | [ChessboardAndQueens](https://cses.fi/problemset/task/1624)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/ChessboardAndQueens.cpp)|[JAVA]()|[PYTHON]()|
 | [CreateStrings](https://cses.fi/problemset/task/1622)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/CreateStrings.cpp)|[JAVA]()|[PYTHON]()|
+| [DigitQueries](https://cses.fi/problemset/task/2431)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/DigitQueries.cpp)|[JAVA]()|[PYTHON]()|
+| [TowerOfHanoi](https://cses.fi/problemset/task/2165)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/TowerOfHanoi.cpp)|[JAVA]()|[PYTHON]()|
