@@ -8,6 +8,8 @@
 #define pll pair<long long, long long>
 #define vi vector<int>
 using namespace std;
+
+
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL); cout.tie(NULL);
@@ -17,13 +19,13 @@ int main() {
 
 	while(tc--){
 		int n; cin >> n;
-		int cnt = 0;
-		for(int p = 5; p <= n; p *= 5) {
-			cnt += n / p;
+		for(int i = 1; i <= n; i++) {
+			ll ans = 1ll*i*i*(i*i - 1)/2 - 4ll * (i- 1) * (i - 2);
+			cout << ans << endl;
 		}
-		cout << cnt << endl;
 	}
 	return 0;
 
 }
+// Author: Tran Quang Huy
 

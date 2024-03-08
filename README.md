@@ -19,3 +19,5 @@
 | [CreateStrings](https://cses.fi/problemset/task/1622)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/CreateStrings.cpp)|[JAVA]()|[PYTHON]()|
 | [DigitQueries](https://cses.fi/problemset/task/2431)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/DigitQueries.cpp)|[JAVA]()|[PYTHON]()|
 | [TowerOfHanoi](https://cses.fi/problemset/task/2165)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/TowerOfHanoi.cpp)|[JAVA]()|[PYTHON]()|
+| [TwoKnights](https://cses.fi/problemset/task/1072)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/TwoKnights.cpp)|[JAVA]()|[PYTHON]()|
+| [GridPaths](https://cses.fi/problemset/task/1625)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/GridPaths.cpp)|[JAVA]()|[PYTHON]()|

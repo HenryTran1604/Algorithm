@@ -4,8 +4,8 @@ using namespace std;
 int main() {
 	ofstream fo;
 	fo.open("README.md", ios::app);
-	string nameProblem = "TowerOfHanoi";
-	string idProblem = "2165";
+	string nameProblem = "GridPaths";
+	string idProblem = "1625";
 	string linkProblem = "https://cses.fi/problemset/task/" + idProblem;
 	string type = "Introductory Problems";
 	string solutionCPP = "https://github.com/HenryTran1604/CSES/blob/main/CPP/" + nameProblem + ".cpp";
