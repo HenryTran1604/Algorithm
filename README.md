@@ -21,3 +21,6 @@
 | [TowerOfHanoi](https://cses.fi/problemset/task/2165)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/TowerOfHanoi.cpp)|[JAVA]()|[PYTHON]()|
 | [TwoKnights](https://cses.fi/problemset/task/1072)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/TwoKnights.cpp)|[JAVA]()|[PYTHON]()|
 | [GridPaths](https://cses.fi/problemset/task/1625)   | Introductory Problems |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/GridPaths.cpp)|[JAVA]()|[PYTHON]()|
+| [DistinctNumbers](https://cses.fi/problemset/task/1621)   | Sorting and Searching |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/DistinctNumbers.cpp)|[JAVA]()|[PYTHON]()|
+| [Apartments](https://cses.fi/problemset/task/1084)   | Sorting and Searching |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/Apartments.cpp)|[JAVA]()|[PYTHON]()|
+| [FerrisWheel](https://cses.fi/problemset/task/1090)   | Sorting and Searching |[CPP](https://github.com/HenryTran1604/CSES/blob/main/CPP/FerrisWheel.cpp)|[JAVA]()|[PYTHON]()|
